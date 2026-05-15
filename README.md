@@ -25,7 +25,4 @@ This project is a Python script designed to analyze sales data from CSV files. I
 - Matplotlib
 - Argparse (for command-line usage)
 
----
-
-## 📁 Project Structure
 
